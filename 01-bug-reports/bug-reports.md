@@ -146,4 +146,3 @@ High, потому что пользователь не может оформи�
 У standard_user не воспроизводится.
 
 https://github.com/user-attachments/assets/2755f59f-547d-4748-942b-0f9dafa2e437
-
